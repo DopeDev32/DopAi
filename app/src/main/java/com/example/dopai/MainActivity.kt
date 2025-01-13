@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
             val generativeModel = GenerativeModel(
                 modelName = "gemini-pro",
-                apiKey = "AIzaSyDiez4u-3NUMskLUNtjLVWAqZDb5cSp_Eo"
+                apiKey = "your-apikey"
             )
             runBlocking {
                 val response = generativeModel.generateContent(prompt)
