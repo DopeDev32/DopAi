@@ -1,12 +1,13 @@
 # BitChat
-
+<!--
 <p align="right">🌟 <a href="https://appetize.io/app/b_asoy3h3r3k4dgojrdqujetjkni" target="_blank">Try the Demo</a></p>
-
+-->
 
 <a href="https://appetize.io/app/b_asoy3h3r3k4dgojrdqujetjkni">
 <img src="media/bitchatApp.gif" 
 width="300" hspace="10" align="right">
 </a>
+
 
 
 🤖 **AI Chat Assistant App** 
