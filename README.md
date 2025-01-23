@@ -97,7 +97,7 @@ Contributions are welcome!
 
 ## 📧 **Contact**  
 
-If you have any questions or suggestions, feel free to reach out:  
+ Feel free to reach out:  
 ✉️ **debashisgope01@gmail.com**  
 
 
